@@ -1,0 +1,20 @@
+.odd-numbers{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#even-number{
+    color:blue;
+    font-size: 36px;
+
+}
+
+.special{
+    font-size: 24px;
+}
+
+#even-number-2 {
+    background-color: lightgreen;
+    font-weight: bold;
+
+}
